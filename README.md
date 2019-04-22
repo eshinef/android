@@ -1,1 +1,1 @@
-# eshinef
+# Android samples.
